@@ -68,7 +68,6 @@ function removeDuplicate(){
 const datas2 = [10,20,30,10,20,30,]
 
 function removeDuplicate2(){
-
     let newArray = []
 
     for(data of datas2){
@@ -80,7 +79,7 @@ function removeDuplicate2(){
 
 }
 
-// console.log(removeDuplicate2());
+// console.log(removeDuplicate2());hksjfhgjshfgkj
 
 
 const numbersInArray = [10,20,30,10,20,30]
